@@ -1,2 +1,0 @@
-# spyeye
-SpyEye
